@@ -55,7 +55,7 @@
 ![img04](./Image/Img04.png)
 
 * 如果sensor L2 辨識到黑色線，以下方塊模組會產生True
-<img src="./Image/Img05.png" alt="drawing" style="width:350px;"/>
+<img src="./Image/Img05.png" alt="drawing" style="width:150px;"/>
 
 * 範例 **demo02.hex**
 ![img04](./Image/Img06.png)
@@ -64,7 +64,7 @@
 ## 哈士奇AI辨識鏡頭
 
 * 哈士奇鏡頭操作，哈士奇比較耗電，需要連著micro usb才能使用
-<img src="./Image/Img07.png" alt="drawing" style="width:350px;"/>
+<img src="./Image/Img07.png" alt="drawing" style="width:150px;"/>
 * 哈士奇AI辨識功能只透過長壓按鈕就可以學習，不需要透過任何程式
 
 ### 物件辨識(Object Recognition)的學習
