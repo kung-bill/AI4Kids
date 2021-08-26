@@ -90,14 +90,14 @@
 
 <img src="./Image/Img12.png" alt="drawing" style="width:300px;"/> <img src="./Image/Img13.png" alt="drawing" style="width:300px;"/> 
 
-* * 開始分類推論模式， 將物體移動到框框中，會顯示該物體被預測的類別，如果是沒看過的物體，則會顯示**Object: ID0**
+* 開始分類推論模式， 將物體移動到框框中，會顯示該物體被預測的類別，如果是沒看過的物體，則會顯示**Object: ID0**
 
 <img src="./Image/Img14.png" alt="drawing" style="width:300px;"/> <img src="./Image/Img15.png" alt="drawing" style="width:300px;"/> 
 
 
 ## 手勢操作麥坤小車
-*　透過以上的分類學習的方法，將剪刀、石頭、布手勢對應學習成**ID 1, ID 2, ID 3**
-*　透過剪刀石頭布來遙控麥坤小車
+
+*　透過以上的分類學習的方法，將剪刀、石頭、布手勢對應學習成 **ID 1, ID 2, ID 3**，就能透過剪刀石頭布手勢來遙控麥坤小車
 
 * 範例 **demo03.hex**
 ![img16](./Image/Img16.png)
