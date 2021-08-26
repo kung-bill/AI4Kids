@@ -18,7 +18,7 @@
 
     點選MakeCode IDE中的 進階->擴展->搜尋 **dfrobot**->選擇以下模組安裝
 
-  * **![img01](.\Image\img01.png)**
+  * **![img01](./Image/Img01.png)**
 
   * 安裝完成後會出現以下關於DFRobot Maqueen Plus的新模塊
     * Maqueen Plus
@@ -26,7 +26,7 @@
 
 * 新增AI辨識模組哈士奇到 Makecode，選擇左邊哈士奇模組 (HuskyLens)
 
-  ![img02](.\Image\img02.png)
+  ![img02](./Image/Img02.png)
 
   * 新增完成後出現模組
 
@@ -40,7 +40,7 @@
 * 然後每0.5秒辨識畫面中是否有人臉出現，如果出現發出聲音，沒有則打叉
 
 * 範例 **demo01.hex**
-![img03](./Image/img03.png)
+![img03](./Image/Img03.png)
 
 ## micro bit 循跡繞圈
 
@@ -52,10 +52,10 @@
 
 * Maqueen 小車循跡 sensor，從底部往上拍，左到右為 R3, R2, R1, L1, L2, L3
 
-![img04](./Image/img04.png)
+![img04](./Image/Img04.png)
 
 * 如果sensor L2 辨識到黑色線，以下方塊模組會產生True
-<img src="./Image/img05.png" alt="drawing" style="width:350px;"/>
+<img src="./Image/Img05.png" alt="drawing" style="width:350px;"/>
 
 * 範例 **demo02.hex**
 ![img04](./Image/Img06.png)
