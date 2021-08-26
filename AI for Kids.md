@@ -71,6 +71,7 @@
 * 哈士奇的物件辨識中，將最常看到的一些類別訓練好了，例如:人、狗、貓、瓶子、螢幕等等，總共20個分類
 
 * 開啟Object Recognition功能，當螢幕出現+號，用+號對準要學習的物體，長壓學習按鍵，就可以讓哈士奇 學習，然後學習過後的物體會出現ID編號 (bottle:ID1)
+
 <img src="./Image/Img08.png" alt="drawing" style="width:300px;"/> <img src="./Image/Img09.png" alt="drawing" style="width:300px;"/>
 
 
@@ -82,10 +83,15 @@
 
 * 在分類問題中，哈士奇可以學習自己給定的類別分辨東西
 * 畫面上會產生一個固定的框框，只要將想學習的物體對準+號，長壓學習按鍵，即可開始學習方框中物體。也可以轉動視線角度，讓學習得更好
+
 <img src="./Image/Img10.png" alt="drawing" style="width:300px"/> <img src="./Image/Img11.png" alt="drawing" style="width:300px"/>
+
 * 要學習第二個物體，只需要第一個物體學習完畢後，短按學習按鍵，就能夠再次學習新物體(長壓學習按鍵)，如果不想學習新物體，就按學習鍵以外的其他按件，就可以結束學習，開始分類推論模式
+
 <img src="./Image/Img12.png" alt="drawing" style="width:300px;"/> <img src="./Image/Img13.png" alt="drawing" style="width:300px;"/> 
-* 開始分類推論模式， 將物體移動到框框中，會顯示該物體被預測的類別，如果是沒看過的物體，則會顯示**Object: ID0**
+
+* * 開始分類推論模式， 將物體移動到框框中，會顯示該物體被預測的類別，如果是沒看過的物體，則會顯示**Object: ID0**
+
 <img src="./Image/Img14.png" alt="drawing" style="width:300px;"/> <img src="./Image/Img15.png" alt="drawing" style="width:300px;"/> 
 
 
